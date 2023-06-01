@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>$NuGetPackageId$</id>
+    <version>$NuGetPackageVersion$</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <copyright>&#169; Microsoft Corporation. All rights reserved.</copyright>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.OutputCache.OutputCacheModuleAsync" version="$OutputCacheModuleAsyncNuGetPackageVersion$" />
+    </dependencies>
+    <title>Microsoft ASP.NET SQL Async OutputCache Provider</title>
+    <description>Async version SQL OutputCache Provider</description>
+    <summary>Async version SQL OutputCache Provider</summary>
+    <language>en-US</language>
+    <projectUrl>http://www.asp.net/</projectUrl>
+    <icon>images\dotnet-icon.png</icon>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <license type="expression">MIT</license>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <readme>docs\Readme.md</readme>
+    <tags>ASP.NET SQL Async OutputCache Provider</tags>
+  </metadata>
+</package>
